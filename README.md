@@ -1,4 +1,5 @@
 # Sudoku
+PySide6 is used for ui
 ## Properties
 ✅ Checks all conditions for winning\
 ✅ If you complete the game and win, the win message will be displayed\
